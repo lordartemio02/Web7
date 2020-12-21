@@ -1,0 +1,16 @@
+#imghistory {
+  width: 300px;
+  margin: 10px 10px 10px 10px;
+  float: left;
+}
+table {
+  width: 100%;
+  border-spacing: 0;
+}
+tr:nth-child(2n) {
+  background: #f0f0f0;
+}
+tr:nth-child(1) {
+  background: #666;
+  color: #fff;
+}

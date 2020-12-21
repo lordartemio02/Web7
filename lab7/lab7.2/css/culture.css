@@ -1,0 +1,10 @@
+#textculture::after {
+  content: "Lorem ipsum dolor sit amet";
+  color: #31424e;
+  font-style: italic;
+}
+#imgculture1 {
+  width: 360px;
+  height: 330px;
+  padding: 20px 100px 20px 20px;
+}
